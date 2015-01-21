@@ -1,10 +1,9 @@
 # scalding-example
 
 # Data Source
-* ZipCode to AdminCode
- * http://juso.go.kr/notice/OpenArchivesDetail.do?mgtSn=1592&currentPage=2&searchType=&keyword=&noticeKd=26&type=matching
+* [AddressCodeMapping](http://juso.go.kr/notice/OpenArchivesDetail.do?mgtSn=1592&currentPage=2&searchType=&keyword=&noticeKd=26&type=matching)
 
-# Edit
+# Configuring your environment
 * ZipCodeToAdminCode
  * DEFAULT_ARGUMENTS
  * mapred.job.queue.name
